@@ -4,9 +4,7 @@
 	</head>
 
 	<body>
-<img src=“http://www.t-kougei.ac.jp/img_static/kogeiLogo.png” alt=“東京工芸大学ロゴ” />
+<img src=“../patato.jpeg” alt=“ぽてちゅろ” />
 <h3>↑ここに表示されていますか？↑</h3>
-
-
 	</body>
 </html>
